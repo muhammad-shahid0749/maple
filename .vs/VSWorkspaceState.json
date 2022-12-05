@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\clip",
+    "\\configs",
+    "\\configs\\trainers",
+    "\\scripts\\cocoop",
+    "\\scripts\\coop",
+    "\\scripts\\zsclip",
+    "\\trainers"
+  ],
+  "SelectedNode": "\\trainers\\cocoop.py",
+  "PreviewInSolutionExplorer": false
+}
